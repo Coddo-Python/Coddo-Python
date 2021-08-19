@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Anything**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **Coddo#3210 on Discord**
-- ⚡ Fun fact: **I have never used an IRL unix system!**
+- ⚡ Fun fact: **I play the guitar!**
 
 <details>
   <summary style="font-size:1.25em"><strong>My skillset</strong></summary>
