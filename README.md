@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on **slobypy and sloby-next**
-- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently working on **ProxyTree**
+- 🌱 I’m currently learning **Svelte**
 - 👯 I’m looking to collaborate on **Anything**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **Coddo#3210 on Discord**
